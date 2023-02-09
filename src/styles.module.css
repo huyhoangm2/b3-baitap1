@@ -1,0 +1,17 @@
+.Sidebar{
+    font-size: x-large;
+    width: 30%;
+    height: 800px;
+    background-color: blue;
+    float: left;
+    font-family:'Times New Roman', Times, serif;
+}
+.Content{
+    font-family:'Times New Roman', Times, serif;
+    font-size: x-large;
+    width: 70%;
+    background-color: rgb(244, 28, 28);
+    float: right;
+    height: 800px;
+    
+}
